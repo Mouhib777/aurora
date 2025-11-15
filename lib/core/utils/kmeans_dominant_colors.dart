@@ -12,6 +12,8 @@ import 'package:image/image.dart' as img;
 ///
 /// There isn’t a Dart/Flutter package that perfectly extracts dominant colors (based on my research),
 /// so it’s a custom solution (with helping of DeepSeek), and i plan to package it up and share it on https://pub.dev/.
+/// update====>  Published the custom dominant color extraction solution as a package on pub.dev:
+/// https://pub.dev/packages/kmeans_dominant_colors
 ///
 /// - [image]: the image to analyze.
 /// - [k]: how many colors you want to extract (i make default : 3).
