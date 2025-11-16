@@ -1,3 +1,8 @@
 app_no_cache.mp4 : https://drive.google.com/file/d/1vNrBkTHf56q0sM9qFqf0jkZfCT_DH1B1/view?usp=sharing, 
 app_with_cached_images.mp4 :https://drive.google.com/file/d/1Wqv-fyLrZZrdHTrRSH3Fmx6jGBt-9yl6/view?usp=sharing
 
+/// I created and published this algorithm "lib/core/utils/kmeans_dominant_colors.dart"
+/// as the `kmeans_dominant_colors` package on pub.dev , 
+/// since no existing Dart/Flutter solutions offered
+/// high-quality dominant-color extraction.
+/// https://pub.dev/packages/kmeans_dominant_colors 
